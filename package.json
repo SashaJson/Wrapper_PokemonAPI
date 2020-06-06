@@ -16,5 +16,8 @@
     "url": "https://github.com/SashaJson/Wrapper_PokemonAPI/issues"
   },
   "homepage": "https://github.com/SashaJson/Wrapper_PokemonAPI#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
